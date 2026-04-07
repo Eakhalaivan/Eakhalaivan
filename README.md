@@ -13,6 +13,7 @@ I am actively preparing for Java backend developer roles and building projects t
 * **Backend Fundamentals:** REST APIs, basic Spring Boot concepts
 * **Data Structures & Algorithms:** Arrays, Strings, Linked Lists, Hashing, Searching, Sorting
 * **Database:** MySQL (CRUD operations, basic joins)
+**Frontend:** Html, Tailwind css Javascript 
 * **Tools:** Git, GitHub
 
 ## What You’ll Find in This Repository
@@ -41,7 +42,7 @@ I am actively preparing for Java backend developer roles and building projects t
 * **linkedIn:**[www.linkedin.com/in/eakhalaivan-p-220979378]
 * **portfolio:**[https://portfolio-ivory-mu-cq4fpwotcz.vercel.app]
 * **project:**[https://vertex-bank-application.vercel.app]
-* **portfolio:**[https://hr-mangement-system.vercel.app]
+* **project:**[https://hr-mangement-system.vercel.app]
 
 ---
 
