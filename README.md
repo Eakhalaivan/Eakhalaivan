@@ -13,7 +13,7 @@ I am actively preparing for Java backend developer roles and building projects t
 * **Backend Fundamentals:** REST APIs, basic Spring Boot concepts
 * **Data Structures & Algorithms:** Arrays, Strings, Linked Lists, Hashing, Searching, Sorting
 * **Database:** MySQL (CRUD operations, basic joins)
-**Frontend:** Html, Tailwind css Javascript 
+* **Frontend:** Html, Tailwind css Javascript 
 * **Tools:** Git, GitHub
 
 ## What You’ll Find in This Repository
