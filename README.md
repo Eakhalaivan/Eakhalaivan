@@ -40,7 +40,7 @@ I am actively preparing for Java backend developer roles and building projects t
 * **GitHub:** [https://github.com/Eakhalaivan]
 * **Email:** [eakhalaivanp@gamil.com]
 * **linkedIn:**[www.linkedin.com/in/eakhalaivan-p-220979378]
-* **portfolio:**[https://portfolio-ivory-mu-cq4fpwotcz.vercel.app]
+* **portfolio:**[https://portfolio-2026-neon-xi.vercel.app/]
 * **project:**[https://vertex-bank-application.vercel.app]
 * **project:**[https://hr-mangement-system.vercel.app]
 
