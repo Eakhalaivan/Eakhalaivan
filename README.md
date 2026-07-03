@@ -43,7 +43,7 @@ I am actively preparing for Java backend developer roles and building projects t
 * **portfolio:**[https://portfolio-2026-neon-xi.vercel.app/]
 * **project:**[https://vertex-bank-application.vercel.app]
 * **project:**[https://hr-mangement-system.vercel.app]
-
+* **project:**[https://pms-pharma-desk.vercel.app]
 ---
 
 This repository reflects my learning journey, consistency, and commitment to becoming a strong backend engineer.
